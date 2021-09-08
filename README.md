@@ -179,6 +179,52 @@ P_{cobre} = 450W
 ![image](https://user-images.githubusercontent.com/85144847/132459808-b8f1a9a9-7d27-4620-8aa9-03b5fc38a2af.png)
 ![image](https://user-images.githubusercontent.com/85144847/132459845-27a4df57-c568-4e40-9a2f-20bf58ce8111.png)
 
+23-9 Circuitos débilmente acoplados
+
+29.- Para la figura 23-78,
+
+![image](https://user-images.githubusercontent.com/85144847/132471326-07b65061-d950-472b-81d4-0d9c27c479cf.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132471376-fbab2cb7-7a4e-43ec-bcbe-caa2b8bc2644.png)
+![image](https://user-images.githubusercontent.com/85144847/132471398-13fae612-c5f3-413b-93df-2ab36e2d87f1.png)
+![image](https://user-images.githubusercontent.com/85144847/132471425-66163abc-c0af-4ba7-8b03-56b15d377404.png)
+
+Para cada circuito indique qué signo usar con M, más o menos.
+
+- Desarrollo:
+
+a) 
+
+b)
+
+c)
+
+31.- Para un conjunto de bobinas acopladas, L1 = 2 H, M = 0.8 H y el coeficiente de acoplamiento es de 0.6. Determine L2.
+
+33.- Todo igual que en el problema 32, excepto que i1 = 10 e^(-500t) A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t = 1 ms.
+
+35.- Para la figura 23-80, determine LT.
+
+![image](https://user-images.githubusercontent.com/85144847/132471851-cd69af9b-fc17-4a49-bd49-896fde31a472.png)
+
+37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
+
+![image](https://user-images.githubusercontent.com/85144847/132471932-5458959c-815b-429b-87ce-c1734070db4c.png)
+
+39.- Para el circuito de la figura 23-83, escriba las ecuaciones de malla.
+
+![image](https://user-images.githubusercontent.com/85144847/132472020-e057f02f-a3da-4de3-8b96-64ba3e385d02.png)
+
+41.- Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
+
+![image](https://user-images.githubusercontent.com/85144847/132472121-4c3532f1-fff9-469c-8fa8-16587321fd0d.png)
+
+
+
+
+
+
+
 3.2. CAPITULO 24
 
 
