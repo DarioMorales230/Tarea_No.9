@@ -181,28 +181,6 @@ P_{cobre} = 450W
 
 23-9 Circuitos débilmente acoplados
 
-29.- Para la figura 23-78,
-
-![image](https://user-images.githubusercontent.com/85144847/132471326-07b65061-d950-472b-81d4-0d9c27c479cf.png)
-
-![image](https://user-images.githubusercontent.com/85144847/132471376-fbab2cb7-7a4e-43ec-bcbe-caa2b8bc2644.png)
-![image](https://user-images.githubusercontent.com/85144847/132471398-13fae612-c5f3-413b-93df-2ab36e2d87f1.png)
-![image](https://user-images.githubusercontent.com/85144847/132471425-66163abc-c0af-4ba7-8b03-56b15d377404.png)
-
-Para cada circuito indique qué signo usar con M, más o menos.
-
-- Desarrollo:
-
-a) 
-
-b)
-
-c)
-
-31.- Para un conjunto de bobinas acopladas, L1 = 2 H, M = 0.8 H y el coeficiente de acoplamiento es de 0.6. Determine L2.
-
-33.- Todo igual que en el problema 32, excepto que i1 = 10 e^(-500t) A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a t = 1 ms.
-
 35.- Para la figura 23-80, determine LT.
 
 ![image](https://user-images.githubusercontent.com/85144847/132471851-cd69af9b-fc17-4a49-bd49-896fde31a472.png)
@@ -241,9 +219,10 @@ Tenemos en este punto lo siguiente para:
 
 - Lazo 2: -15I2 - j50I2 - 50I2 + 50I1 = 0
 
+
+
+
 3.2. CAPITULO 24
-
-
 
 
 24-4 Ejemplos
@@ -414,10 +393,71 @@ Comparando los resultados con el problema 34 se puede concluir que los valores d
 ![image](https://user-images.githubusercontent.com/85144847/132466771-144d0618-a98d-48e5-ac1a-9f861840cbbb.png)
 ![image](https://user-images.githubusercontent.com/85144847/132466812-d165b78a-5c7a-4464-9db3-41db38b2d459.png)
 
+39.- Para la figura 24-53, si Vab = 600 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
 
+![image](https://user-images.githubusercontent.com/85144847/132527468-aad1d8eb-26a5-495b-ab3b-17fd4fc4ca1d.png)
 
+41.- Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.
 
+![image](https://user-images.githubusercontent.com/85144847/132527705-deffe935-0ebd-41a4-b554-4f389348cab3.png)
 
+43.- Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)
+
+45.- Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
+
+![image](https://user-images.githubusercontent.com/85144847/132527925-9e1e7e79-4c6a-4a8a-a541-12d913606e5c.png)
+
+24-6 Medición de potencia en circuitos trifásicos
+
+47.- Para la figura 24-47, el voltaje de fase del generador es de 120 volts.
+
+a. Dibuje tres wattímetros correctamente en el circuito.
+
+b. Calcule la lectura de cada uno.
+
+c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.
+
+![image](https://user-images.githubusercontent.com/85144847/132528621-ff0f9c92-ad49-4541-9452-9a610997f15d.png)
+
+49.- Para el circuito de la figura 24-56, Vab = 208 V∠30°.
+
+a. Determine la magnitud y ángulo de las corrientes.
+
+b. Determine la potencia por fase y la potencia total, PT.
+
+c. Calcule las lecturas de cada wattímetro.
+
+d. Sume las lecturas de los medidores y compare los resultados para PT de (b).
+
+![image](https://user-images.githubusercontent.com/85144847/132528465-a9c23712-003d-4945-b786-210b1c0a977e.png)
+
+51.- Considere el circuito de la figura 24-56.
+
+a. Calcule el factor de potencia a partir del ángulo de las impedancias de fase.
+
+b. En el problema 49 se determinaron las lecturas del wattímetro enPh = 1164 W y P = 870 W. Sustituya estos valores en la ecuación 24-24 y calcule el factor de potencia de la carga. Compare sus resultados con los del inciso (a).
+
+![image](https://user-images.githubusercontent.com/85144847/132528443-fe7a5aef-2019-4fe1-842e-b07f601b9496.png)
+
+53.- Para la figura 24-58, Rab = 60 ohm, Zbc = 80 ohm + j60 ohm. Calcule
+
+a. Las corrientes de fase y de línea.
+
+b. La potencia en cada fase y la potencia total.
+
+![image](https://user-images.githubusercontent.com/85144847/132528922-eba94bce-0cff-44fe-8d42-dd31e569f6ce.png)
+
+55.- Para la figura 24-59, calcule lo siguiente:
+
+a. Las corrientes de línea, sus magnitudes y ángulos.
+
+b. La corriente en el neutro.
+
+c. La potencia en cada fase.
+
+d. Potencia total en la carga.
+
+![image](https://user-images.githubusercontent.com/85144847/132529189-400fa75f-a06f-45d5-91f3-071bcffbf786.png)
 
 
 4. VIDEO DE YOUTUBE
@@ -425,6 +465,14 @@ Comparando los resultados con el problema 34 se puede concluir que los valores d
 https://www.youtube.com/watch?v=NOSmrq-AZoM
 
 5. CONCLUSIONES
+
+- Tal y como se pudo comprobar el resultado de dos bobinas suficientemente aproximadas una de la otra donde el flujo de corriente atraviesa a la primaria y produzca una tensión en las terminales de la secundaria.
+
+- Tras el análisis, podemos deducir que los transformadores son una de las aplicaciones de las bobinas ya que con la transferencia de tensión mediante la inducción hace que estos amplifiquen o reduzcan la tensión para el transporte de la energía eléctrica.
+
+- Un generador trifásico balanceado, tiene tres terminales y puede estar presente un cuarto terminal llamado neutro y los voltajes entre dos terminales cualesquiera, tienen igual magnitud, frecuencia y están desfasados entre sí por 120º.
+
+- Se puede calcular la potencia activa trifásica o total que se entrega a una carga balanceada, a partir del conocimiento de las magnitudes (rms) del voltaje de línea, de la corriente de línea y del ángulo de fase de la impedancia (o admitancia) de carga, sin que importe que la carga esté conectada en Y o en ∆.
 
 
 6. BIBLIOGRAFIA
