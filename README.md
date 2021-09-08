@@ -179,26 +179,188 @@ P_{cobre} = 450W
 ![image](https://user-images.githubusercontent.com/85144847/132459808-b8f1a9a9-7d27-4620-8aa9-03b5fc38a2af.png)
 ![image](https://user-images.githubusercontent.com/85144847/132459845-27a4df57-c568-4e40-9a2f-20bf58ce8111.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3.2. CAPITULO 24
+
+
+
+
+24-4 Ejemplos
+
+21.- Para la figura 24-49, Van = 120 V < 0°. Dibuje el equivalente de una sola fase y:
+
+![image](https://user-images.githubusercontent.com/85144847/132460626-b7e5200b-168c-4106-9a96-40266dec048d.png)
+
+Circuito Equivalente
+
+![image](https://user-images.githubusercontent.com/85144847/132460772-4c2e8f44-57dd-4898-96e7-810e468d4c8c.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/132460899-324a009a-37d5-4e50-859d-9c3e93c1c95c.png)
+
+a) Encuentre el voltaje de fase EAN, magnitud y ángulo.
+
+![image](https://user-images.githubusercontent.com/85144847/132461131-f52fa8bb-2775-4c34-a87d-073d9ebc0cf9.png)
+
+b) Encuentre el voltaje de línea EAB, magnitud y ángulo.
+
+EAB = \sqrt{3EAN} <30°
+
+EAB = \sqrt3(122.1 V <0.675°+30°)
+
+EAB = 212 V <30.676°
+
+23.- Para la figura 24-48, EAN 120 = V < -10°. Encuentre la corriente de línea con el método equivalente de una sola fase.
+
+![image](https://user-images.githubusercontent.com/85144847/132461434-cdd57fb0-91e1-4700-a031-cfc80e3d2c25.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/132461513-e1a23033-3079-4901-b4e6-4c35ed4dcb63.png)
+
+Circuito Equivalente
+
+![image](https://user-images.githubusercontent.com/85144847/132461579-dd032f10-73cf-4c2a-b7fa-6bc93f3c95e9.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132461812-e2f98a05-a12f-457f-aeb5-0269bc14753b.png)
+![image](https://user-images.githubusercontent.com/85144847/132461837-e8a6d4f9-2c2a-4136-a48a-64be20d5e9e5.png)
+
+25.- Para la figura 24-48, suponga que las líneas tienen una impedancia Z línea de 0.15 Ohm + j0.25 Ohm y EAN = 120 V < 0°. Convierta la carga Δ en Y y use el equivalente de una fase para encontrar las corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/85144847/132461989-9cea4b5d-2fb1-4405-8d52-fc2a4c24c058.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132462043-c702e2cc-28e4-4fbd-97bc-9ba3f47a3701.png)
+
+- Circuito Equivalente:
+
+![image](https://user-images.githubusercontent.com/85144847/132462158-f187146b-ad4e-4995-ae80-479324a51921.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132462449-1cdd805e-98df-4343-be56-40cb7c4f6819.png)
+![image](https://user-images.githubusercontent.com/85144847/132462470-c4d51a3b-710a-45df-8e63-a7156f1c3202.png)
+![image](https://user-images.githubusercontent.com/85144847/132462495-06382576-15ee-45e6-85c8-ea0c42afe7ec.png)
+
+27.- Para el circuito de la figura 24-49, suponga que Z línea = 0.15 Ohm + j0.25 Ohm y Vab = 600 V < 30°. Determine EAB.
+
+![image](https://user-images.githubusercontent.com/85144847/132462586-a181dcd7-b1e6-4f0e-8631-45a1a54c7fd6.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/132462821-3e4b7120-0227-4853-8f47-1901b83b39eb.png)
+
+Circuito Equivalente:
+
+![image](https://user-images.githubusercontent.com/85144847/132462871-d884bfb6-be2b-4177-9d5f-06381fa320bf.png)
+![image](https://user-images.githubusercontent.com/85144847/132462955-aee9713f-6692-456a-bf92-1fbbcef51d55.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132462985-46d8cfdd-c72b-4767-8c57-d45e2285b7d2.png)
+![image](https://user-images.githubusercontent.com/85144847/132463002-29191159-8864-4b97-bfe1-7e888d422c3f.png)
+
+29.- Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga Δ es Va`b` 480 V∠30º. Encuentre el voltaje del generador EAB, magnitud y ángulo.
+
+Z_Y = 12Ω+j9Ω
+
+Z_{\Delta} = 27Ω - j36Ω
+
+Zlínea = 0.1Ω+j0.1Ω
+
+V_{an} = 120V <0°
+
+![image](https://user-images.githubusercontent.com/85144847/132464322-83f189b4-9d96-4a04-89a2-cdd067569029.png)
+
+- Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/132464378-91e1b01d-623e-4a9c-98e8-769b2dcea031.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132464466-76a9ebe9-a8e5-4109-a5ec-f367f3aa0c46.png)
+![image](https://user-images.githubusercontent.com/85144847/132464498-975abba2-ac70-4f13-9c72-a873d72cbbb1.png)
+
+Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/132464549-dcb3d569-f6db-49fd-805e-17362862add0.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132464589-c2567c02-28d7-4552-ace9-56c33fc19db6.png)
+
+- Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/132464639-e49a42f0-e41e-4120-9c29-69c0f5a28d84.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132464678-c4e0b35d-81f9-4a3f-a8d3-aa1d201378eb.png)
+![image](https://user-images.githubusercontent.com/85144847/132464714-17e41e1a-00c4-44b9-bdc7-8d695b657818.png)
+![image](https://user-images.githubusercontent.com/85144847/132464750-a594f13f-473a-4e00-9696-55afaa611e83.png)
+
+31.- Para la figura 24-21(a), ZY = 15Ω+ j20 Ω, ZΔ = 9 Ω - j12 Ω, Zlínea  0.1 Ω+ j0.1 Ω, e I a`b`= 40 A∠73. 13º. Encuentre el voltaje de fase Y Van, magnitud y ángulo. 
+
+![image](https://user-images.githubusercontent.com/85144847/132464814-f0efc461-b952-4704-bead-121a1d58fbdc.png)
+
+Z_Y = 15Ω+j20Ω
+
+Z_{\Delta} = 9Ω-j12Ω
+
+Zlínea = 0.1Ω+j0.1Ω
+
+I_{a'b'} = 40A\angle73.13°
+
+![image](https://user-images.githubusercontent.com/85144847/132465100-65ae3f2a-db48-4907-b3a1-adaeaafab598.png)
+![image](https://user-images.githubusercontent.com/85144847/132465139-a4324958-d831-46e2-8ef6-88cfd0bdd467.png)
+
+24-5 Potencia en sistemas balanceados
+
+33.- Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN  =120 V.
+
+![image](https://user-images.githubusercontent.com/85144847/132465290-5326f81b-c4c6-4e89-a90f-bdb20a9b8aad.png)
+
+Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/132465324-2eac4ff5-9457-486a-a721-897e3b9ff347.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132465461-14aeec86-e26c-4d1f-8d7a-47f3076f9471.png)
+![image](https://user-images.githubusercontent.com/85144847/132465486-3653cd81-d521-4de6-adb3-76b5c01223da.png)
+![image](https://user-images.githubusercontent.com/85144847/132465546-d38ff9d5-dde5-4d7c-8e65-628c046b0e5d.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132465645-854a5de4-44db-4da7-9c14-844ae1b8ad37.png)
+![image](https://user-images.githubusercontent.com/85144847/132465676-26fbe82b-ffe5-4220-aff3-bb0436343277.png)
+![image](https://user-images.githubusercontent.com/85144847/132465701-80a77466-7713-4628-833d-7abd0ea97216.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132465768-1636e2d8-5b19-4b21-9e9a-45c04f451c5f.png)
+![image](https://user-images.githubusercontent.com/85144847/132465798-4634947e-f62a-4e9e-a1db-69849f40570f.png)
+![image](https://user-images.githubusercontent.com/85144847/132465830-a5bec35f-86e6-4893-95a0-35f334e599aa.png)
+
+35.- Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL = 207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34. 
+
+![image](https://user-images.githubusercontent.com/85144847/132465913-831a627d-78dc-467b-87ee-3dfb524ed957.png)
+
+Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/132466049-b632d528-d14a-4f29-ab48-f9d2aede856a.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132466134-c6d74853-0296-40ea-8a7c-0bcc111c3e69.png)
+![image](https://user-images.githubusercontent.com/85144847/132466150-e442e2cd-73f9-4207-b04c-4858b02d2e08.png)
+![image](https://user-images.githubusercontent.com/85144847/132466188-8ad9bc78-46fc-423b-89fd-8d55f7b32767.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132466223-6c6f1b92-7cd3-4aa3-9fda-9c559f41a090.png)
+![image](https://user-images.githubusercontent.com/85144847/132466244-bb0bfa43-fbff-4123-b65a-9847ae8794e6.png)
+
+Comparando los resultados con el problema 34 se puede concluir que los valores del resultado son aproximadamente iguales.
+
+37.- Para la figura 24-48, EAB - 208 V. Calcule las potencias reales, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36
+
+![image](https://user-images.githubusercontent.com/85144847/132466406-d86df2e5-2de3-40ab-b7ee-9b9b1db96aa6.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132466695-6e475ace-a046-4960-ad57-60996424ea1a.png)
+![image](https://user-images.githubusercontent.com/85144847/132466728-f29ed2b7-3880-416a-82ab-50f4a63ddd64.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132466771-144d0618-a98d-48e5-ac1a-9f861840cbbb.png)
+![image](https://user-images.githubusercontent.com/85144847/132466812-d165b78a-5c7a-4464-9db3-41db38b2d459.png)
+
+
+
+
+
 
 
 4. VIDEO DE YOUTUBE
 
+https://www.youtube.com/watch?v=NOSmrq-AZoM
 
 5. CONCLUSIONES
 
