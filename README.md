@@ -207,23 +207,39 @@ c)
 
 ![image](https://user-images.githubusercontent.com/85144847/132471851-cd69af9b-fc17-4a49-bd49-896fde31a472.png)
 
+LT = L1 + L2 – M23 + L3 + L4 
+
+LT = 1 + 6 - 2 + 1.5 + 4 (H)
+
+LT = 10.5 H
+
 37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
 
 ![image](https://user-images.githubusercontent.com/85144847/132471932-5458959c-815b-429b-87ce-c1734070db4c.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132473425-07385714-c9a1-4ae2-b151-935a20b5d9dd.png)
+
+Tenemos en este punto lo siguiente para:
+
+- Lazo 1: 120 v < 0°
+
+- Lazo 2: -40 I2 + 250 I1 = 0
 
 39.- Para el circuito de la figura 23-83, escriba las ecuaciones de malla.
 
 ![image](https://user-images.githubusercontent.com/85144847/132472020-e057f02f-a3da-4de3-8b96-64ba3e385d02.png)
 
+- Lazo 1: 100 v < 0° - 4I1 + j10I1 - j40I1 + J8I2 = 0
+
+- Lazo 2: -j8I2 + j8I1 = 0
+
 41.- Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
 
 ![image](https://user-images.githubusercontent.com/85144847/132472121-4c3532f1-fff9-469c-8fa8-16587321fd0d.png)
 
+- Lazo 1: 10I1 + j10I1 - j12I1 + j12I2 - 50I1 + 50I2 = 0
 
-
-
-
-
+- Lazo 2: -15I2 - j50I2 - 50I2 + 50I1 = 0
 
 3.2. CAPITULO 24
 
