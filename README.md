@@ -77,7 +77,7 @@ Ss = 108 kVA
 
 23-5 Aplicaciones del transformador 
 
-19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es un horno de 2400 W con Fp = 1.0, determine 
+19.- El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es un horno de 2400 W con Fp = 1.0, determine 
 
 ![image](https://user-images.githubusercontent.com/85144847/132456167-a7bdd45e-94fa-4d61-88e3-e2dd7179dc11.png)
 
@@ -117,7 +117,7 @@ PT = 5100 W
 
 ![image](https://user-images.githubusercontent.com/85144847/132456809-ee6b49dc-fdf4-4b38-bdd9-d606c649991f.png)
 
-21. Un amplificador con un equivalente de Thévenin de 10 V y RTh de 25 Ohm maneja una bocina de 4 Ohm a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
+21.- Un amplificador con un equivalente de Thévenin de 10 V y RTh de 25 Ohm maneja una bocina de 4 Ohm a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
 
 ![image](https://user-images.githubusercontent.com/85144847/132456987-e1123fd8-97f8-494e-8030-12477526451b.png)
 ![image](https://user-images.githubusercontent.com/85144847/132457022-1ac41c64-0a3e-4e1c-aa13-d70193f7b408.png)
@@ -128,6 +128,62 @@ PT = 5100 W
 
 ![image](https://user-images.githubusercontent.com/85144847/132457247-a480b801-4f57-4a7b-86e6-977bff8e4be8.png)
 ![image](https://user-images.githubusercontent.com/85144847/132457277-550c9aa7-b250-4035-9bae-4007fa4d24ca.png)
+
+23.- Para la figura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20 Ω∠50º, Z3 = (12 + j4) Ω y Eg = 120 V∠0º. Encuentre cada corriente de carga y la corriente del generador.
+
+![image](https://user-images.githubusercontent.com/85144847/132458456-9055c371-d533-4c9d-890a-4316550f627c.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/132458530-885438ac-dfa5-4557-827e-cad62ebf5e0f.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132458662-48ddf263-a79d-4437-8c0d-39c7ae014729.png)
+![image](https://user-images.githubusercontent.com/85144847/132458714-15e7da39-25c0-47d5-8c56-68910cf2efd7.png)
+![image](https://user-images.githubusercontent.com/85144847/132458762-834c39e6-ae78-474d-904f-b9ef4f3d4e52.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132458873-a3f5ecad-3491-4fc3-a868-0dd1c5a965aa.png)
+
+23-6 Transformadores de núcleo de hierro prácticos
+
+25.- Para la figura 23-77, Eg = 1220 V∠0º.
+
+![image](https://user-images.githubusercontent.com/85144847/132459087-e93dc3a6-81a8-4ff4-9da4-3d00ecd156f5.png)
+
+a. Dibuje el circuito equivalente.
+
+![image](https://user-images.githubusercontent.com/85144847/132459209-b0c70fe3-285f-4f9a-a288-994f43f78e47.png)
+![image](https://user-images.githubusercontent.com/85144847/132459249-b73a1ec8-3543-4885-9f64-954f29afb82c.png)
+
+Z_{eqv} = 6{\Omega} + j6{\Omega}
+
+![image](https://user-images.githubusercontent.com/85144847/132459378-0f9bada1-38cc-4753-9b47-c8dcd0cb9ea1.png)
+
+- Redibujando el circuito nos da:
+
+![image](https://user-images.githubusercontent.com/85144847/132459434-ef4f7b68-643f-4ccb-9a39-29de7b20b772.png)
+
+b. Determine Ig, IL, y VL.
+
+![image](https://user-images.githubusercontent.com/85144847/132459535-9b02397a-c29e-460f-883f-ae846f91dc37.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132459588-ecc18a37-0f02-4b9a-a1d9-3eba16962478.png)
+
+27.- Un transformador que entrega Psal = 48 kW tiene una pérdida en el núcleo de 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
+
+P_{sal} = 48kW
+
+P-{núcleo} = 280W
+
+P_{cobre} = 450W
+
+![image](https://user-images.githubusercontent.com/85144847/132459808-b8f1a9a9-7d27-4620-8aa9-03b5fc38a2af.png)
+![image](https://user-images.githubusercontent.com/85144847/132459845-27a4df57-c568-4e40-9a2f-20bf58ce8111.png)
+
+
+
+
+
+
 
 
 
