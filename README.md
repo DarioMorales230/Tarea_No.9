@@ -403,53 +403,95 @@ Comparando los resultados con el problema 34 se puede concluir que los valores d
 
 43.- Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)
 
+![image](https://user-images.githubusercontent.com/85144847/132532219-951dd557-e1bb-4984-9ba2-e46b20ccccc0.png)
+
 45.- Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz.
 
 ![image](https://user-images.githubusercontent.com/85144847/132527925-9e1e7e79-4c6a-4a8a-a541-12d913606e5c.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/132534164-f0df3491-4bc4-4ed6-92b4-94e91cf1f375.png)
 
 24-6 Medición de potencia en circuitos trifásicos
 
 47.- Para la figura 24-47, el voltaje de fase del generador es de 120 volts.
 
+![image](https://user-images.githubusercontent.com/85144847/132535228-a163236f-39df-4230-ab45-d2da65b1db4a.png)
+
 a. Dibuje tres wattímetros correctamente en el circuito.
+
+![image](https://user-images.githubusercontent.com/85144847/132535175-c6c2d222-aa95-4341-8028-9aef240e4f2b.png)
 
 b. Calcule la lectura de cada uno.
 
+Rpta: 768 W
+
 c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.
 
-![image](https://user-images.githubusercontent.com/85144847/132528621-ff0f9c92-ad49-4541-9452-9a610997f15d.png)
+I = 120/15 = 8 A
+
+Para la potencia:
+
+Pt = 3(120)(8)(36.87)
+
+Pt = 2304 W
 
 49.- Para el circuito de la figura 24-56, Vab = 208 V∠30°.
 
+![image](https://user-images.githubusercontent.com/85144847/132528465-a9c23712-003d-4945-b786-210b1c0a977e.png)
+
 a. Determine la magnitud y ángulo de las corrientes.
 
-b. Determine la potencia por fase y la potencia total, PT.
+![image](https://user-images.githubusercontent.com/85144847/132537571-fdea0d6b-c5b2-4bb0-a8ac-dade387e65e0.png)
+
+b. Determine la potencia por fase y la potencia total, PT..
+
+![image](https://user-images.githubusercontent.com/85144847/132537546-350b4232-d524-4927-bd93-37c39fccf96e.png)
 
 c. Calcule las lecturas de cada wattímetro.
 
+![image](https://user-images.githubusercontent.com/85144847/132537509-9918b64d-6750-4d6b-844d-eab3fffd6afb.png)
+
 d. Sume las lecturas de los medidores y compare los resultados para PT de (b).
 
-![image](https://user-images.githubusercontent.com/85144847/132528465-a9c23712-003d-4945-b786-210b1c0a977e.png)
+WT = 208(5.82)cos(44°) + 1163.7
+
+WT = 2034 W
 
 51.- Considere el circuito de la figura 24-56.
 
+![image](https://user-images.githubusercontent.com/85144847/132528443-fe7a5aef-2019-4fe1-842e-b07f601b9496.png)
+
 a. Calcule el factor de potencia a partir del ángulo de las impedancias de fase.
+
+Zo = 20.62 ohm <14°
+
+Fp = cos(14°)
+
+Fp = 0.99
 
 b. En el problema 49 se determinaron las lecturas del wattímetro enPh = 1164 W y P = 870 W. Sustituya estos valores en la ecuación 24-24 y calcule el factor de potencia de la carga. Compare sus resultados con los del inciso (a).
 
-![image](https://user-images.githubusercontent.com/85144847/132528443-fe7a5aef-2019-4fe1-842e-b07f601b9496.png)
+![image](https://user-images.githubusercontent.com/85144847/132538547-50cafde6-de71-4bb6-a9fc-dce6a5bc4d1e.png)
 
 53.- Para la figura 24-58, Rab = 60 ohm, Zbc = 80 ohm + j60 ohm. Calcule
 
+![image](https://user-images.githubusercontent.com/85144847/132528922-eba94bce-0cff-44fe-8d42-dd31e569f6ce.png)
+
 a. Las corrientes de fase y de línea.
+
+![image](https://user-images.githubusercontent.com/85144847/132538923-2a050ac0-78ae-4520-b964-e6fd56ca51a2.png)
 
 b. La potencia en cada fase y la potencia total.
 
-![image](https://user-images.githubusercontent.com/85144847/132528922-eba94bce-0cff-44fe-8d42-dd31e569f6ce.png)
+![image](https://user-images.githubusercontent.com/85144847/132539082-1ea4dfb3-edf9-44e2-b1fb-b0d36fb59723.png)
 
 55.- Para la figura 24-59, calcule lo siguiente:
 
 a. Las corrientes de línea, sus magnitudes y ángulos.
+
+![image](https://user-images.githubusercontent.com/85144847/132529189-400fa75f-a06f-45d5-91f3-071bcffbf786.png)
 
 b. La corriente en el neutro.
 
@@ -457,7 +499,6 @@ c. La potencia en cada fase.
 
 d. Potencia total en la carga.
 
-![image](https://user-images.githubusercontent.com/85144847/132529189-400fa75f-a06f-45d5-91f3-071bcffbf786.png)
 
 
 4. VIDEO DE YOUTUBE
