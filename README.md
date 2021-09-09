@@ -30,6 +30,114 @@ Anaizar, fundamentar y desarrollar de manera correcta los ejercicios planteados 
 
 3.1. CAPITULO 23
 
+23-1 Introducción
+
+1.- Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan.
+
+![image](https://user-images.githubusercontent.com/85144847/132621732-d6a78de4-9237-427d-bf38-24fbd898e7c5.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/132621785-ea9044be-ae7e-450c-ae8c-9097c08e1643.png)
+
+- Para la grafica a se encuentra en fase con ep
+
+- Para la grafica b	ep se encuentra 180° fuera de fase con es
+
+23-2 Transformadores de núcleo de hierro: el modelo ideal
+
+3.- Un transformador ideal tiene Np = 1000 vueltas y Ns = 4000 vueltas.
+
+a. ¿El voltaje se eleva o se reduce?
+
+![image](https://user-images.githubusercontent.com/85144847/132622332-0a44a397-9bef-45e8-8e62-8e9e64168396.png)
+
+b. Si es = 100 sen qt, ¿qué valor tiene ep cuando se devana como en la figura 23-7(a)?
+
+![image](https://user-images.githubusercontent.com/85144847/132622352-eaf83024-0f8e-44f0-9dc2-d9668c196ecb.png)
+
+c. Si Es = 24 volts, ¿qué valor tiene Ep?
+
+![image](https://user-images.githubusercontent.com/85144847/132622390-4ae56fef-206d-4a54-bb9e-4f68222a7047.png)
+
+d. Si Ep = 24 V∠0°, ¿qué valor tiene Es cuando se devana como en la figura 23-7(a)?
+
+![image](https://user-images.githubusercontent.com/85144847/132622416-77f24caa-6c7a-432f-ba25-c6721c127f1d.png)
+
+e. Si Ep = 800 V∠0°, ¿qué valor tiene Es cuando se devana como en la figura 23-7(b)?
+
+![image](https://user-images.githubusercontent.com/85144847/132622433-2b4a10b3-b4d3-4d86-aaaf-05111e03a24f.png)
+
+5.- Para la figura 23-72, determine las expresiones para v1, v2 y v3.
+
+![image](https://user-images.githubusercontent.com/85144847/132622515-288b7ed2-6a1a-40e1-acf5-66fb885b0e4e.png)
+
+- Para v1:
+
+![image](https://user-images.githubusercontent.com/85144847/132622767-31bf0d4c-6813-4071-8ae4-45de7caa4000.png)
+
+- Para v2:
+
+![image](https://user-images.githubusercontent.com/85144847/132622793-1df31bd6-5aad-40af-8a7b-50cd2aefe9aa.png)
+
+- Para v3:
+
+![image](https://user-images.githubusercontent.com/85144847/132622816-343b0c6e-f75b-4f15-8677-b2e9f9002cd4.png)
+
+7.- Si, para la figura 23-73, Eg = 240 V∠0°, a = 0.5, e Ig = 2 A∠20°, determine lo siguiente:
+
+a. IL
+
+![image](https://user-images.githubusercontent.com/85144847/132623199-ed8132ea-d5b0-49d1-956d-76c4f4099523.png)
+
+b. VL 
+
+![image](https://user-images.githubusercontent.com/85144847/132623212-3c5d3ebb-8d35-4736-9351-b8e61fe1d8dd.png)
+
+c. ZL
+
+![image](https://user-images.githubusercontent.com/85144847/132623257-4502edea-09af-4620-b254-e03e077c9abc.png)
+
+9.- Si, para la figura 23-73, a = 4, Ig = 4 A∠30°, y ZL = 6 ohm -j8 ohm, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/85144847/132623489-6b107953-56df-445f-aedd-43b34a163714.png)
+
+a. VL 
+
+a=4  Ig=4A <30°  
+
+Zl = 6ohm-j8 = 10ohm﷧ <-53°
+
+Vl = Il x Zl = 4A30°*10ohm <-53°
+
+Vl = 40v <-23°
+
+b. Eg
+
+Eg = 40v <-23°*4
+
+Eg = 160v <-23°
+
+23-3 Impedancia reflejada
+
+11.- Para cada circuito de la figura 23-74, determine Zp.
+
+![image](https://user-images.githubusercontent.com/85144847/132623796-893e69b0-3d49-46cb-9fde-ca15eae9eff4.png)
+
+- Para el circuito a:
+
+![image](https://user-images.githubusercontent.com/85144847/132624024-48e335cb-fda9-4f94-8711-22b3b5101b9a.png)
+
+- Para el circuito b:
+
+![image](https://user-images.githubusercontent.com/85144847/132624035-1da6223d-4787-4388-a9f6-ea00a2a82c56.png)
+
+13.- Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp = (62.5-j125) ohm?
+
+![image](https://user-images.githubusercontent.com/85144847/132624254-7a9eef08-3be2-44f1-959f-39b5c80ba992.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132625482-24d1acf5-915c-470b-996f-e24ba083b64d.png)
+
 23-3 Impedancia reflejada 
 
 15.- Para cada circuito de la figura 23-75, determine ZT.
