@@ -21,6 +21,7 @@ Anaizar, fundamentar y desarrollar de manera correcta los ejercicios planteados 
 
 2.1. Resumen Capítulo 23:
 
+![WhatsApp Image 2021-09-08 at 18 35 10](https://user-images.githubusercontent.com/85144847/132632132-eb7026e7-c2bc-4672-8b1c-dfbb24743ba8.jpeg)
 
 2.2. Resumen Capítulo 24:
 
@@ -327,11 +328,151 @@ Tenemos en este punto lo siguiente para:
 
 - Lazo 2: -15I2 - j50I2 - 50I2 + 50I1 = 0
 
-
-
-
 3.2. CAPITULO 24
 
+24-2 Conexiones básicas de circuitos trifásicos
+
+1.- Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12 ohm a 15 ohm ∠30° y para EAA' = 120 V∠0°, haga lo siguiente:
+
+![image](https://user-images.githubusercontent.com/85144847/132626283-f1aabdb3-447b-403e-badd-4b76b1ac99cb.png)
+
+a. Calcule las corrientes IA, IB e IC.
+
+![image](https://user-images.githubusercontent.com/85144847/132626893-18812746-b667-4c6a-8704-c30a9e35ebdd.png)
+![image](https://user-images.githubusercontent.com/85144847/132626952-2c320973-a95a-4848-bbd9-6c82ce7dba59.png)
+![image](https://user-images.githubusercontent.com/85144847/132626982-be5e3436-ceb8-4ade-96b1-f2dcae58709d.png)
+
+b. Sume las corrientes. ¿Se cumple IA + IB + IC = 0?
+
+IA+IB+IC=0
+
+8A<-30°+8A<-15°+8A<90°=0  
+
+Se cumple 
+
+3.- Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada.
+
+![image](https://user-images.githubusercontent.com/85144847/132627169-c0945048-12ec-4c00-b02b-2703fddc11b6.png)
+
+24-3 Relaciones trifásicas básicas
+
+5.- Para las cargas de la figura 24-4, Vbc = 208 V∠-75°.
+
+![image](https://user-images.githubusercontent.com/85144847/132627272-7eeb2ca3-8d6e-40ac-9b5a-ad21d9a5ac51.png)
+
+a. Determine los voltajes línea a línea Vab y Vca.
+
+Vab = 208v <45°  
+
+Vca = 208v <165°
+
+b. Determine los voltajes de fase.
+
+Van = 120v <15°  
+
+Vbn = 120v <-105° 
+
+Vcn = 120v <135°
+
+c. Dibuje el diagrama fasorial.
+
+![image](https://user-images.githubusercontent.com/85144847/132628217-9c205f54-87b9-4670-8afa-e3dab66fc439.png)
+
+7.- Para la carga de la figura 24-47, Van = 347 V∠15°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
+
+![image](https://user-images.githubusercontent.com/85144847/132628358-afed0ad4-d726-4927-a694-ca6c810d6ff2.png)
+
+- Desarrollo:
+
+![image](https://user-images.githubusercontent.com/85144847/132628998-076b74a6-40da-4730-b79c-84ae8ed7d49c.png)
+
+9.- Una carga Y balanceada tiene una impedancia de Zan = 14.7 ohm∠16°. Si Vcn = 120 V∠160°, determine todas las corrientes de línea
+
+![image](https://user-images.githubusercontent.com/85144847/132629500-e9ad6eac-3275-4300-8219-9571f9818c13.png)
+![image](https://user-images.githubusercontent.com/85144847/132629512-12b656c8-5ad9-4d1c-9746-f43679315fae.png)
+![image](https://user-images.githubusercontent.com/85144847/132629531-5739445d-c218-4b4f-8e9c-acda03815183.png)
+
+11.- Para el circuito de la figura 24-48, Vab = 480 V∠0°. Encuentre la fase y las corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/85144847/132629589-381774ba-848e-4b4d-9a58-525c664ea855.png)
+
+![image](https://user-images.githubusercontent.com/85144847/132630110-af85eba7-4995-4dc1-a81e-2172861fc8ad.png)
+
+13.- Para el circuito de la figura 24-48, si Iab = 10 A∠-21°, determine todos los voltajes de línea.
+
+![image](https://user-images.githubusercontent.com/85144847/132630274-d45ab069-a52d-42ef-9ea5-78a8d4641d8a.png)
+
+- Desarrollo:
+
+Vab=10A-21°*25ohm-36.9°
+
+Vab=250v <-57.9°
+
+Vbc=10A-21°*25ohm-175.9°
+
+Vbc=250v <-177.9°
+
+Vca=10A-21°*25ohm83.1°
+
+Vca=250v <62.1°
+
+15.- Una carga Y balanceada tiene una impedancia de fase de 24 ohm∠33° y un voltajelínea a línea de 600 V. Tome Van como referencia y determine todas las corrientes de línea.
+
+- Desarrollo:
+
+I1 = (345.6)/(24ohm<33°)
+
+I1 =14.4A <-33°
+
+I2 = (345.6<-120°)/(24ohm<33°)
+
+I2 = 14.4A <-153°
+
+I3 = (345.6<120°)/(24ohm<33°)
+
+I3 = 14.4A <87°
+
+17.- a. Para cierta carga Y balanceada, Vab = 208 V∠30°, Ia = 24 A∠40° y f = 60 Hz. Determine la carga (R y L o C).
+
+b. Repita el inciso (a) si Vbc = 208 V∠-30° e Ic = 12 A∠140°.
+
+- Desarrollo:
+
+Vbm=115.1V <-122.9°
+
+Vcm=115.1v <117.71°
+
+Vab=(3\right)^\frac{1}{2}\left(115.1v\right)-2.29°+30°=199v71
+
+Vbc=199v <-92.29
+
+19. Una carga balanceada a 60 Hz tiene una corriente de Ibc = 4.5 A∠-85°.
+
+El voltaje de línea es de 240 volts y Vab se toma como referencia.
+
+a. Encuentre las otras corrientes de fase.
+
+b. Encuentre las corrientes de línea.
+
+c. Encuentre la resistencia R y la capacitancia C de la carga.
+
+- Desarrollo:
+
+I1 = 29.9A <26.2°  
+
+I2 = 11.8A <5°
+
+I1 = 29.9A <26.2°
+
+I2-I1 = 19.9A <168.5°
+
+Ic = I2-11A <128.5°
+
+Van = IaZan = 29.9A <26.2x5 = 149.5
+
+Vbn = 99V <138.4° 
+
+Vcn = 118V <75.4°
 
 24-4 Ejemplos
 
@@ -597,17 +738,20 @@ b. La potencia en cada fase y la potencia total.
 
 55.- Para la figura 24-59, calcule lo siguiente:
 
-a. Las corrientes de línea, sus magnitudes y ángulos.
-
 ![image](https://user-images.githubusercontent.com/85144847/132529189-400fa75f-a06f-45d5-91f3-071bcffbf786.png)
 
-b. La corriente en el neutro.
+Ia = 1.94 A <-0.37°
 
-c. La potencia en cada fase.
+Ib = 4 A <-117.7°
 
-d. Potencia total en la carga.
+Ic = 3.57 A <91.4°
 
 
+Van = 34.92 V <-0.73°
+
+Vbn = 179 V <-144.26°
+
+Vcn = 178.5 V < -144.5°
 
 4. VIDEO DE YOUTUBE
 
